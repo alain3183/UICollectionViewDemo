@@ -7,7 +7,7 @@
         <!--View Controller-->
         <scene sceneID="BmI-lj-AVZ">
             <objects>
-                <viewController id="IJA-SZ-vSd" sceneMemberID="viewController">
+                <viewController id="IJA-SZ-vSd" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="pto-Hp-Ohz"/>
                         <viewControllerLayoutGuide type="bottom" id="FAA-Kf-qKe"/>
@@ -40,6 +40,9 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
+                    <connections>
+                        <outlet property="myCollectionView" destination="SQ6-qQ-8BQ" id="qWf-xl-7RP"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="r1j-Gp-8vk" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
