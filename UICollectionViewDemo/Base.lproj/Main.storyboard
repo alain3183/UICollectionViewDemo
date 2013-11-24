@@ -36,6 +36,10 @@
                                         </view>
                                     </collectionViewCell>
                                 </cells>
+                                <connections>
+                                    <outlet property="dataSource" destination="IJA-SZ-vSd" id="ABd-YL-t6D"/>
+                                    <outlet property="delegate" destination="IJA-SZ-vSd" id="Ttd-UY-oBx"/>
+                                </connections>
                             </collectionView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
