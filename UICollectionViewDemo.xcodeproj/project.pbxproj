@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B223EB6818444C610089F52F /* PatternViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B223EB6718444C610089F52F /* PatternViewCell.m */; };
 		B2F2DA9C18424AAC00DB843D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2F2DA9B18424AAC00DB843D /* Foundation.framework */; };
 		B2F2DA9E18424AAC00DB843D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2F2DA9D18424AAC00DB843D /* CoreGraphics.framework */; };
 		B2F2DAA018424AAC00DB843D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2F2DA9F18424AAC00DB843D /* UIKit.framework */; };
@@ -41,6 +42,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B223EB6618444C610089F52F /* PatternViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PatternViewCell.h; sourceTree = "<group>"; };
+		B223EB6718444C610089F52F /* PatternViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PatternViewCell.m; sourceTree = "<group>"; };
 		B2F2DA9818424AAC00DB843D /* UICollectionViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UICollectionViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2F2DA9B18424AAC00DB843D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B2F2DA9D18424AAC00DB843D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -130,6 +133,8 @@
 				B2F2DAAA18424AAC00DB843D /* AppDelegate.h */,
 				B2F2DAAB18424AAC00DB843D /* AppDelegate.m */,
 				B2F2DAAD18424AAC00DB843D /* Main.storyboard */,
+				B223EB6618444C610089F52F /* PatternViewCell.h */,
+				B223EB6718444C610089F52F /* PatternViewCell.m */,
 				B2F2DAB018424AAC00DB843D /* ViewController.h */,
 				B2F2DAB118424AAC00DB843D /* ViewController.m */,
 				B2F2DAB318424AAC00DB843D /* Images.xcassets */,
@@ -286,6 +291,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B2F2DAB218424AAC00DB843D /* ViewController.m in Sources */,
+				B223EB6818444C610089F52F /* PatternViewCell.m in Sources */,
 				B2F2DAAC18424AAC00DB843D /* AppDelegate.m in Sources */,
 				B2F2DAA818424AAC00DB843D /* main.m in Sources */,
 			);
@@ -496,6 +502,7 @@
 				B2F2DACC18424AAD00DB843D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B2F2DACD18424AAD00DB843D /* Build configuration list for PBXNativeTarget "UICollectionViewDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +511,7 @@
 				B2F2DACF18424AAD00DB843D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
