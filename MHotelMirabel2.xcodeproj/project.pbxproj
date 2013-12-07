@@ -44,23 +44,23 @@
 /* Begin PBXFileReference section */
 		B223EB6618444C610089F52F /* PatternViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PatternViewCell.h; sourceTree = "<group>"; };
 		B223EB6718444C610089F52F /* PatternViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PatternViewCell.m; sourceTree = "<group>"; };
-		B2F2DA9818424AAC00DB843D /* UICollectionViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UICollectionViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B2F2DA9818424AAC00DB843D /* MHotelMirabel2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MHotelMirabel2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2F2DA9B18424AAC00DB843D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B2F2DA9D18424AAC00DB843D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		B2F2DA9F18424AAC00DB843D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		B2F2DAA318424AAC00DB843D /* UICollectionViewDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UICollectionViewDemo-Info.plist"; sourceTree = "<group>"; };
+		B2F2DAA318424AAC00DB843D /* MHotelMirabel2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MHotelMirabel2-Info.plist"; sourceTree = "<group>"; };
 		B2F2DAA518424AAC00DB843D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B2F2DAA718424AAC00DB843D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		B2F2DAA918424AAC00DB843D /* UICollectionViewDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UICollectionViewDemo-Prefix.pch"; sourceTree = "<group>"; };
+		B2F2DAA918424AAC00DB843D /* MHotelMirabel2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MHotelMirabel2-Prefix.pch"; sourceTree = "<group>"; };
 		B2F2DAAA18424AAC00DB843D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B2F2DAAB18424AAC00DB843D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		B2F2DAAE18424AAC00DB843D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B2F2DAB018424AAC00DB843D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		B2F2DAB118424AAC00DB843D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		B2F2DAB318424AAC00DB843D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		B2F2DAB918424AAC00DB843D /* UICollectionViewDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UICollectionViewDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B2F2DAB918424AAC00DB843D /* MHotelMirabel2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MHotelMirabel2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2F2DABA18424AAC00DB843D /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		B2F2DAC218424AAD00DB843D /* UICollectionViewDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UICollectionViewDemoTests-Info.plist"; sourceTree = "<group>"; };
+		B2F2DAC218424AAD00DB843D /* MHotelMirabel2Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MHotelMirabel2Tests-Info.plist"; sourceTree = "<group>"; };
 		B2F2DAC418424AAD00DB843D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B2F2DAC618424AAD00DB843D /* UICollectionViewDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UICollectionViewDemoTests.m; sourceTree = "<group>"; };
 		B2F2DAD118424FE400DB843D /* pattern1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern1.jpg; sourceTree = "<group>"; };
@@ -99,8 +99,8 @@
 		B2F2DA8F18424AAC00DB843D = {
 			isa = PBXGroup;
 			children = (
-				B2F2DAA118424AAC00DB843D /* UICollectionViewDemo */,
-				B2F2DAC018424AAD00DB843D /* UICollectionViewDemoTests */,
+				B2F2DAA118424AAC00DB843D /* MHotelMirabel2 */,
+				B2F2DAC018424AAD00DB843D /* MHotelMirabelTests */,
 				B2F2DA9A18424AAC00DB843D /* Frameworks */,
 				B2F2DA9918424AAC00DB843D /* Products */,
 			);
@@ -109,8 +109,8 @@
 		B2F2DA9918424AAC00DB843D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B2F2DA9818424AAC00DB843D /* UICollectionViewDemo.app */,
-				B2F2DAB918424AAC00DB843D /* UICollectionViewDemoTests.xctest */,
+				B2F2DA9818424AAC00DB843D /* MHotelMirabel2.app */,
+				B2F2DAB918424AAC00DB843D /* MHotelMirabel2Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -126,7 +126,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		B2F2DAA118424AAC00DB843D /* UICollectionViewDemo */ = {
+		B2F2DAA118424AAC00DB843D /* MHotelMirabel2 */ = {
 			isa = PBXGroup;
 			children = (
 				B2F2DAD018424E0C00DB843D /* Images */,
@@ -140,33 +140,35 @@
 				B2F2DAB318424AAC00DB843D /* Images.xcassets */,
 				B2F2DAA218424AAC00DB843D /* Supporting Files */,
 			);
+			name = MHotelMirabel2;
 			path = UICollectionViewDemo;
 			sourceTree = "<group>";
 		};
 		B2F2DAA218424AAC00DB843D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				B2F2DAA318424AAC00DB843D /* UICollectionViewDemo-Info.plist */,
+				B2F2DAA318424AAC00DB843D /* MHotelMirabel2-Info.plist */,
 				B2F2DAA418424AAC00DB843D /* InfoPlist.strings */,
 				B2F2DAA718424AAC00DB843D /* main.m */,
-				B2F2DAA918424AAC00DB843D /* UICollectionViewDemo-Prefix.pch */,
+				B2F2DAA918424AAC00DB843D /* MHotelMirabel2-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		B2F2DAC018424AAD00DB843D /* UICollectionViewDemoTests */ = {
+		B2F2DAC018424AAD00DB843D /* MHotelMirabelTests */ = {
 			isa = PBXGroup;
 			children = (
 				B2F2DAC618424AAD00DB843D /* UICollectionViewDemoTests.m */,
 				B2F2DAC118424AAD00DB843D /* Supporting Files */,
 			);
+			name = MHotelMirabelTests;
 			path = UICollectionViewDemoTests;
 			sourceTree = "<group>";
 		};
 		B2F2DAC118424AAD00DB843D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				B2F2DAC218424AAD00DB843D /* UICollectionViewDemoTests-Info.plist */,
+				B2F2DAC218424AAD00DB843D /* MHotelMirabel2Tests-Info.plist */,
 				B2F2DAC318424AAD00DB843D /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -189,9 +191,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B2F2DA9718424AAC00DB843D /* UICollectionViewDemo */ = {
+		B2F2DA9718424AAC00DB843D /* MHotelMirabel2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B2F2DACA18424AAD00DB843D /* Build configuration list for PBXNativeTarget "UICollectionViewDemo" */;
+			buildConfigurationList = B2F2DACA18424AAD00DB843D /* Build configuration list for PBXNativeTarget "MHotelMirabel2" */;
 			buildPhases = (
 				B2F2DA9418424AAC00DB843D /* Sources */,
 				B2F2DA9518424AAC00DB843D /* Frameworks */,
@@ -201,14 +203,14 @@
 			);
 			dependencies = (
 			);
-			name = UICollectionViewDemo;
+			name = MHotelMirabel2;
 			productName = UICollectionViewDemo;
-			productReference = B2F2DA9818424AAC00DB843D /* UICollectionViewDemo.app */;
+			productReference = B2F2DA9818424AAC00DB843D /* MHotelMirabel2.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B2F2DAB818424AAC00DB843D /* UICollectionViewDemoTests */ = {
+		B2F2DAB818424AAC00DB843D /* MHotelMirabel2Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B2F2DACD18424AAD00DB843D /* Build configuration list for PBXNativeTarget "UICollectionViewDemoTests" */;
+			buildConfigurationList = B2F2DACD18424AAD00DB843D /* Build configuration list for PBXNativeTarget "MHotelMirabel2Tests" */;
 			buildPhases = (
 				B2F2DAB518424AAC00DB843D /* Sources */,
 				B2F2DAB618424AAC00DB843D /* Frameworks */,
@@ -219,9 +221,9 @@
 			dependencies = (
 				B2F2DABF18424AAD00DB843D /* PBXTargetDependency */,
 			);
-			name = UICollectionViewDemoTests;
+			name = MHotelMirabel2Tests;
 			productName = UICollectionViewDemoTests;
-			productReference = B2F2DAB918424AAC00DB843D /* UICollectionViewDemoTests.xctest */;
+			productReference = B2F2DAB918424AAC00DB843D /* MHotelMirabel2Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -238,7 +240,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B2F2DA9318424AAC00DB843D /* Build configuration list for PBXProject "UICollectionViewDemo" */;
+			buildConfigurationList = B2F2DA9318424AAC00DB843D /* Build configuration list for PBXProject "MHotelMirabel2" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -251,8 +253,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B2F2DA9718424AAC00DB843D /* UICollectionViewDemo */,
-				B2F2DAB818424AAC00DB843D /* UICollectionViewDemoTests */,
+				B2F2DA9718424AAC00DB843D /* MHotelMirabel2 */,
+				B2F2DAB818424AAC00DB843D /* MHotelMirabel2Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -310,7 +312,7 @@
 /* Begin PBXTargetDependency section */
 		B2F2DABF18424AAD00DB843D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B2F2DA9718424AAC00DB843D /* UICollectionViewDemo */;
+			target = B2F2DA9718424AAC00DB843D /* MHotelMirabel2 */;
 			targetProxy = B2F2DABE18424AAD00DB843D /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -421,9 +423,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "UICollectionViewDemo/UICollectionViewDemo-Prefix.pch";
-				INFOPLIST_FILE = "UICollectionViewDemo/UICollectionViewDemo-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "UICollectionViewDemo/MHotelMirabel2-Prefix.pch";
+				INFOPLIST_FILE = "UICollectionViewDemo/MHotelMirabel2-Info.plist";
+				PRODUCT_NAME = MHotelMirabel2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -434,9 +436,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "UICollectionViewDemo/UICollectionViewDemo-Prefix.pch";
-				INFOPLIST_FILE = "UICollectionViewDemo/UICollectionViewDemo-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "UICollectionViewDemo/MHotelMirabel2-Prefix.pch";
+				INFOPLIST_FILE = "UICollectionViewDemo/MHotelMirabel2-Info.plist";
+				PRODUCT_NAME = MHotelMirabel2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -457,8 +459,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "UICollectionViewDemoTests/UICollectionViewDemoTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "UICollectionViewDemoTests/MHotelMirabel2Tests-Info.plist";
+				PRODUCT_NAME = MHotelMirabel2Tests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -476,8 +478,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UICollectionViewDemo/UICollectionViewDemo-Prefix.pch";
-				INFOPLIST_FILE = "UICollectionViewDemoTests/UICollectionViewDemoTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "UICollectionViewDemoTests/MHotelMirabel2Tests-Info.plist";
+				PRODUCT_NAME = MHotelMirabel2Tests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -486,7 +488,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B2F2DA9318424AAC00DB843D /* Build configuration list for PBXProject "UICollectionViewDemo" */ = {
+		B2F2DA9318424AAC00DB843D /* Build configuration list for PBXProject "MHotelMirabel2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B2F2DAC818424AAD00DB843D /* Debug */,
@@ -495,7 +497,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B2F2DACA18424AAD00DB843D /* Build configuration list for PBXNativeTarget "UICollectionViewDemo" */ = {
+		B2F2DACA18424AAD00DB843D /* Build configuration list for PBXNativeTarget "MHotelMirabel2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B2F2DACB18424AAD00DB843D /* Debug */,
@@ -504,7 +506,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B2F2DACD18424AAD00DB843D /* Build configuration list for PBXNativeTarget "UICollectionViewDemoTests" */ = {
+		B2F2DACD18424AAD00DB843D /* Build configuration list for PBXNativeTarget "MHotelMirabel2Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B2F2DACE18424AAD00DB843D /* Debug */,

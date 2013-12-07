@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B2F2DA9718424AAC00DB843D"
                BuildableName = "UICollectionViewDemo.app"
-               BlueprintName = "UICollectionViewDemo"
-               ReferencedContainer = "container:UICollectionViewDemo.xcodeproj">
+               BlueprintName = "MHotelMirabel2"
+               ReferencedContainer = "container:MHotelMirabel2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B2F2DAB818424AAC00DB843D"
                BuildableName = "UICollectionViewDemoTests.xctest"
-               BlueprintName = "UICollectionViewDemoTests"
-               ReferencedContainer = "container:UICollectionViewDemo.xcodeproj">
+               BlueprintName = "MHotelMirabel2Tests"
+               ReferencedContainer = "container:MHotelMirabel2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B2F2DA9718424AAC00DB843D"
             BuildableName = "UICollectionViewDemo.app"
-            BlueprintName = "UICollectionViewDemo"
-            ReferencedContainer = "container:UICollectionViewDemo.xcodeproj">
+            BlueprintName = "MHotelMirabel2"
+            ReferencedContainer = "container:MHotelMirabel2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B2F2DA9718424AAC00DB843D"
             BuildableName = "UICollectionViewDemo.app"
-            BlueprintName = "UICollectionViewDemo"
-            ReferencedContainer = "container:UICollectionViewDemo.xcodeproj">
+            BlueprintName = "MHotelMirabel2"
+            ReferencedContainer = "container:MHotelMirabel2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B2F2DA9718424AAC00DB843D"
             BuildableName = "UICollectionViewDemo.app"
-            BlueprintName = "UICollectionViewDemo"
-            ReferencedContainer = "container:UICollectionViewDemo.xcodeproj">
+            BlueprintName = "MHotelMirabel2"
+            ReferencedContainer = "container:MHotelMirabel2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

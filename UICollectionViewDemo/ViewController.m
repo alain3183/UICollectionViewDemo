@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "PatternViewCell.h"
 
 @interface ViewController ()
 
@@ -26,11 +27,17 @@
 
 -(UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath{
     
-    UICollectionViewCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"PatternCell" forIndexPath:indexPath];
+    PatternViewCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"PatternCell" forIndexPath:indexPath];
+    
+    NSString *myPatternString = [self.patternImagesArray objectAtIndex:indexPath.row];
+    
+    cell.patternImageView.image = [UIImage imageNamed:myPatternString];
+    cell.patternLabel.text = myPatternString;
     
     return cell;
     
 }
+
 -(CGSize)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout *)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath *)indexPath{
     
     return CGSizeMake(150.0, 150.0);
@@ -40,6 +47,8 @@
     
     return UIEdgeInsetsMake(5, 5, 5, 5);
 }
+
+
 
 
 
