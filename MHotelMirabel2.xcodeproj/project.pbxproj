@@ -14,6 +14,7 @@
 		B250290F1853739E009C77C0 /* pattern4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290A1853739E009C77C0 /* pattern4.jpg */; };
 		B25029101853739E009C77C0 /* pattern5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290B1853739E009C77C0 /* pattern5.jpg */; };
 		B25029111853739E009C77C0 /* pattern6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290C1853739E009C77C0 /* pattern6.jpg */; };
+		B250291318538752009C77C0 /* logo_m-hotel_250x250.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250291218538752009C77C0 /* logo_m-hotel_250x250.jpg */; };
 		B2F2DA9C18424AAC00DB843D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2F2DA9B18424AAC00DB843D /* Foundation.framework */; };
 		B2F2DA9E18424AAC00DB843D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2F2DA9D18424AAC00DB843D /* CoreGraphics.framework */; };
 		B2F2DAA018424AAC00DB843D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2F2DA9F18424AAC00DB843D /* UIKit.framework */; };
@@ -49,6 +50,7 @@
 		B250290A1853739E009C77C0 /* pattern4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern4.jpg; sourceTree = "<group>"; };
 		B250290B1853739E009C77C0 /* pattern5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern5.jpg; sourceTree = "<group>"; };
 		B250290C1853739E009C77C0 /* pattern6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern6.jpg; sourceTree = "<group>"; };
+		B250291218538752009C77C0 /* logo_m-hotel_250x250.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "logo_m-hotel_250x250.jpg"; sourceTree = "<group>"; };
 		B2F2DA9818424AAC00DB843D /* MHotelMirabel2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MHotelMirabel2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2F2DA9B18424AAC00DB843D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B2F2DA9D18424AAC00DB843D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -127,6 +129,7 @@
 		B2F2DAA118424AAC00DB843D /* MHotelMirabel2 */ = {
 			isa = PBXGroup;
 			children = (
+				B250291218538752009C77C0 /* logo_m-hotel_250x250.jpg */,
 				B2F2DAD018424E0C00DB843D /* Images */,
 				B2F2DAAA18424AAC00DB843D /* AppDelegate.h */,
 				B2F2DAAB18424AAC00DB843D /* AppDelegate.m */,
@@ -267,6 +270,7 @@
 				B25029101853739E009C77C0 /* pattern5.jpg in Resources */,
 				B2F2DAA618424AAC00DB843D /* InfoPlist.strings in Resources */,
 				B250290718537385009C77C0 /* pattern1.jpg in Resources */,
+				B250291318538752009C77C0 /* logo_m-hotel_250x250.jpg in Resources */,
 				B250290D1853739E009C77C0 /* pattern2.jpg in Resources */,
 				B2F2DAAF18424AAC00DB843D /* Main.storyboard in Resources */,
 				B250290F1853739E009C77C0 /* pattern4.jpg in Resources */,
