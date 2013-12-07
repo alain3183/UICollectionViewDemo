@@ -8,12 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		B223EB6818444C610089F52F /* PatternViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B223EB6718444C610089F52F /* PatternViewCell.m */; };
-		B250290718537385009C77C0 /* hotel1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290618537385009C77C0 /* hotel1.jpg */; };
-		B250290D1853739E009C77C0 /* hotel2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B25029081853739E009C77C0 /* hotel2.jpg */; };
-		B250290E1853739E009C77C0 /* hotel3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B25029091853739E009C77C0 /* hotel3.jpg */; };
-		B250290F1853739E009C77C0 /* hotel4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290A1853739E009C77C0 /* hotel4.jpg */; };
-		B25029101853739E009C77C0 /* hotel5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290B1853739E009C77C0 /* hotel5.jpg */; };
-		B25029111853739E009C77C0 /* hotel6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290C1853739E009C77C0 /* hotel6.jpg */; };
+		B250290718537385009C77C0 /* pattern1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290618537385009C77C0 /* pattern1.jpg */; };
+		B250290D1853739E009C77C0 /* pattern2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B25029081853739E009C77C0 /* pattern2.jpg */; };
+		B250290E1853739E009C77C0 /* pattern3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B25029091853739E009C77C0 /* pattern3.jpg */; };
+		B250290F1853739E009C77C0 /* pattern4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290A1853739E009C77C0 /* pattern4.jpg */; };
+		B25029101853739E009C77C0 /* pattern5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290B1853739E009C77C0 /* pattern5.jpg */; };
+		B25029111853739E009C77C0 /* pattern6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290C1853739E009C77C0 /* pattern6.jpg */; };
 		B2F2DA9C18424AAC00DB843D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2F2DA9B18424AAC00DB843D /* Foundation.framework */; };
 		B2F2DA9E18424AAC00DB843D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2F2DA9D18424AAC00DB843D /* CoreGraphics.framework */; };
 		B2F2DAA018424AAC00DB843D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2F2DA9F18424AAC00DB843D /* UIKit.framework */; };
@@ -43,12 +43,12 @@
 /* Begin PBXFileReference section */
 		B223EB6618444C610089F52F /* PatternViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PatternViewCell.h; sourceTree = "<group>"; };
 		B223EB6718444C610089F52F /* PatternViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PatternViewCell.m; sourceTree = "<group>"; };
-		B250290618537385009C77C0 /* hotel1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hotel1.jpg; sourceTree = "<group>"; };
-		B25029081853739E009C77C0 /* hotel2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hotel2.jpg; sourceTree = "<group>"; };
-		B25029091853739E009C77C0 /* hotel3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hotel3.jpg; sourceTree = "<group>"; };
-		B250290A1853739E009C77C0 /* hotel4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hotel4.jpg; sourceTree = "<group>"; };
-		B250290B1853739E009C77C0 /* hotel5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hotel5.jpg; sourceTree = "<group>"; };
-		B250290C1853739E009C77C0 /* hotel6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hotel6.jpg; sourceTree = "<group>"; };
+		B250290618537385009C77C0 /* pattern1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern1.jpg; sourceTree = "<group>"; };
+		B25029081853739E009C77C0 /* pattern2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern2.jpg; sourceTree = "<group>"; };
+		B25029091853739E009C77C0 /* pattern3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern3.jpg; sourceTree = "<group>"; };
+		B250290A1853739E009C77C0 /* pattern4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern4.jpg; sourceTree = "<group>"; };
+		B250290B1853739E009C77C0 /* pattern5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern5.jpg; sourceTree = "<group>"; };
+		B250290C1853739E009C77C0 /* pattern6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern6.jpg; sourceTree = "<group>"; };
 		B2F2DA9818424AAC00DB843D /* MHotelMirabel2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MHotelMirabel2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2F2DA9B18424AAC00DB843D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B2F2DA9D18424AAC00DB843D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -175,12 +175,12 @@
 		B2F2DAD018424E0C00DB843D /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				B25029081853739E009C77C0 /* hotel2.jpg */,
-				B25029091853739E009C77C0 /* hotel3.jpg */,
-				B250290A1853739E009C77C0 /* hotel4.jpg */,
-				B250290B1853739E009C77C0 /* hotel5.jpg */,
-				B250290C1853739E009C77C0 /* hotel6.jpg */,
-				B250290618537385009C77C0 /* hotel1.jpg */,
+				B250290618537385009C77C0 /* pattern1.jpg */,
+				B25029081853739E009C77C0 /* pattern2.jpg */,
+				B25029091853739E009C77C0 /* pattern3.jpg */,
+				B250290A1853739E009C77C0 /* pattern4.jpg */,
+				B250290B1853739E009C77C0 /* pattern5.jpg */,
+				B250290C1853739E009C77C0 /* pattern6.jpg */,
 			);
 			name = Images;
 			sourceTree = "<group>";
@@ -261,15 +261,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B25029111853739E009C77C0 /* hotel6.jpg in Resources */,
-				B250290E1853739E009C77C0 /* hotel3.jpg in Resources */,
+				B25029111853739E009C77C0 /* pattern6.jpg in Resources */,
+				B250290E1853739E009C77C0 /* pattern3.jpg in Resources */,
 				B2F2DAB418424AAC00DB843D /* Images.xcassets in Resources */,
-				B25029101853739E009C77C0 /* hotel5.jpg in Resources */,
+				B25029101853739E009C77C0 /* pattern5.jpg in Resources */,
 				B2F2DAA618424AAC00DB843D /* InfoPlist.strings in Resources */,
-				B250290718537385009C77C0 /* hotel1.jpg in Resources */,
-				B250290D1853739E009C77C0 /* hotel2.jpg in Resources */,
+				B250290718537385009C77C0 /* pattern1.jpg in Resources */,
+				B250290D1853739E009C77C0 /* pattern2.jpg in Resources */,
 				B2F2DAAF18424AAC00DB843D /* Main.storyboard in Resources */,
-				B250290F1853739E009C77C0 /* hotel4.jpg in Resources */,
+				B250290F1853739E009C77C0 /* pattern4.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
