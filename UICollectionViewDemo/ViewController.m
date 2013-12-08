@@ -57,7 +57,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     self.patternImagesArray=
-    @[@"pattern1.jpg", @"pattern2.jpg", @"pattern3.jpg", @"pattern4.jpg", @"pattern5.jpg", @"pattern6.jpg", @"pattern7.jpg"];
+    @[@"hotel1.jpg", @"hotel2.jpg", @"hotel3.jpg", @"hotel4.jpg", @"hotel5.jpg", @"hotel6.jpg"];
 }
 
 - (void)didReceiveMemoryWarning

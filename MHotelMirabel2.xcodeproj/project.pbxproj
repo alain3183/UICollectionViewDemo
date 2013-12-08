@@ -7,13 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B221A18F18552FAD0098A538 /* SocialSharingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B221A18E18552FAD0098A538 /* SocialSharingViewController.m */; };
+		B221A1911855320A0098A538 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B221A1901855320A0098A538 /* Social.framework */; };
 		B223EB6818444C610089F52F /* PatternViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B223EB6718444C610089F52F /* PatternViewCell.m */; };
-		B250290718537385009C77C0 /* pattern1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290618537385009C77C0 /* pattern1.jpg */; };
-		B250290D1853739E009C77C0 /* pattern2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B25029081853739E009C77C0 /* pattern2.jpg */; };
-		B250290E1853739E009C77C0 /* pattern3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B25029091853739E009C77C0 /* pattern3.jpg */; };
-		B250290F1853739E009C77C0 /* pattern4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290A1853739E009C77C0 /* pattern4.jpg */; };
-		B25029101853739E009C77C0 /* pattern5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290B1853739E009C77C0 /* pattern5.jpg */; };
-		B25029111853739E009C77C0 /* pattern6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290C1853739E009C77C0 /* pattern6.jpg */; };
+		B250290718537385009C77C0 /* hotel1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290618537385009C77C0 /* hotel1.jpg */; };
+		B250290D1853739E009C77C0 /* hotel2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B25029081853739E009C77C0 /* hotel2.jpg */; };
+		B250290E1853739E009C77C0 /* hotel3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B25029091853739E009C77C0 /* hotel3.jpg */; };
+		B250290F1853739E009C77C0 /* hotel4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290A1853739E009C77C0 /* hotel4.jpg */; };
+		B25029101853739E009C77C0 /* hotel5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290B1853739E009C77C0 /* hotel5.jpg */; };
+		B25029111853739E009C77C0 /* hotel6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250290C1853739E009C77C0 /* hotel6.jpg */; };
 		B250291318538752009C77C0 /* logo_m-hotel_250x250.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B250291218538752009C77C0 /* logo_m-hotel_250x250.jpg */; };
 		B2F2DA9C18424AAC00DB843D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2F2DA9B18424AAC00DB843D /* Foundation.framework */; };
 		B2F2DA9E18424AAC00DB843D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2F2DA9D18424AAC00DB843D /* CoreGraphics.framework */; };
@@ -42,14 +44,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B221A18D18552FAD0098A538 /* SocialSharingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SocialSharingViewController.h; sourceTree = "<group>"; };
+		B221A18E18552FAD0098A538 /* SocialSharingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SocialSharingViewController.m; sourceTree = "<group>"; };
+		B221A1901855320A0098A538 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
 		B223EB6618444C610089F52F /* PatternViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PatternViewCell.h; sourceTree = "<group>"; };
 		B223EB6718444C610089F52F /* PatternViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PatternViewCell.m; sourceTree = "<group>"; };
-		B250290618537385009C77C0 /* pattern1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern1.jpg; sourceTree = "<group>"; };
-		B25029081853739E009C77C0 /* pattern2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern2.jpg; sourceTree = "<group>"; };
-		B25029091853739E009C77C0 /* pattern3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern3.jpg; sourceTree = "<group>"; };
-		B250290A1853739E009C77C0 /* pattern4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern4.jpg; sourceTree = "<group>"; };
-		B250290B1853739E009C77C0 /* pattern5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern5.jpg; sourceTree = "<group>"; };
-		B250290C1853739E009C77C0 /* pattern6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pattern6.jpg; sourceTree = "<group>"; };
+		B250290618537385009C77C0 /* hotel1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hotel1.jpg; sourceTree = "<group>"; };
+		B25029081853739E009C77C0 /* hotel2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hotel2.jpg; sourceTree = "<group>"; };
+		B25029091853739E009C77C0 /* hotel3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hotel3.jpg; sourceTree = "<group>"; };
+		B250290A1853739E009C77C0 /* hotel4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hotel4.jpg; sourceTree = "<group>"; };
+		B250290B1853739E009C77C0 /* hotel5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hotel5.jpg; sourceTree = "<group>"; };
+		B250290C1853739E009C77C0 /* hotel6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hotel6.jpg; sourceTree = "<group>"; };
 		B250291218538752009C77C0 /* logo_m-hotel_250x250.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "logo_m-hotel_250x250.jpg"; sourceTree = "<group>"; };
 		B2F2DA9818424AAC00DB843D /* MHotelMirabel2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MHotelMirabel2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2F2DA9B18424AAC00DB843D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -77,6 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B221A1911855320A0098A538 /* Social.framework in Frameworks */,
 				B2F2DA9E18424AAC00DB843D /* CoreGraphics.framework in Frameworks */,
 				B2F2DAA018424AAC00DB843D /* UIKit.framework in Frameworks */,
 				B2F2DA9C18424AAC00DB843D /* Foundation.framework in Frameworks */,
@@ -118,6 +124,7 @@
 		B2F2DA9A18424AAC00DB843D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				B221A1901855320A0098A538 /* Social.framework */,
 				B2F2DA9B18424AAC00DB843D /* Foundation.framework */,
 				B2F2DA9D18424AAC00DB843D /* CoreGraphics.framework */,
 				B2F2DA9F18424AAC00DB843D /* UIKit.framework */,
@@ -134,6 +141,8 @@
 				B2F2DAAA18424AAC00DB843D /* AppDelegate.h */,
 				B2F2DAAB18424AAC00DB843D /* AppDelegate.m */,
 				B2F2DAAD18424AAC00DB843D /* Main.storyboard */,
+				B221A18D18552FAD0098A538 /* SocialSharingViewController.h */,
+				B221A18E18552FAD0098A538 /* SocialSharingViewController.m */,
 				B223EB6618444C610089F52F /* PatternViewCell.h */,
 				B223EB6718444C610089F52F /* PatternViewCell.m */,
 				B2F2DAB018424AAC00DB843D /* ViewController.h */,
@@ -178,12 +187,12 @@
 		B2F2DAD018424E0C00DB843D /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				B250290618537385009C77C0 /* pattern1.jpg */,
-				B25029081853739E009C77C0 /* pattern2.jpg */,
-				B25029091853739E009C77C0 /* pattern3.jpg */,
-				B250290A1853739E009C77C0 /* pattern4.jpg */,
-				B250290B1853739E009C77C0 /* pattern5.jpg */,
-				B250290C1853739E009C77C0 /* pattern6.jpg */,
+				B250290618537385009C77C0 /* hotel1.jpg */,
+				B25029081853739E009C77C0 /* hotel2.jpg */,
+				B25029091853739E009C77C0 /* hotel3.jpg */,
+				B250290A1853739E009C77C0 /* hotel4.jpg */,
+				B250290B1853739E009C77C0 /* hotel5.jpg */,
+				B250290C1853739E009C77C0 /* hotel6.jpg */,
 			);
 			name = Images;
 			sourceTree = "<group>";
@@ -264,16 +273,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B25029111853739E009C77C0 /* pattern6.jpg in Resources */,
-				B250290E1853739E009C77C0 /* pattern3.jpg in Resources */,
+				B25029111853739E009C77C0 /* hotel6.jpg in Resources */,
+				B250290E1853739E009C77C0 /* hotel3.jpg in Resources */,
 				B2F2DAB418424AAC00DB843D /* Images.xcassets in Resources */,
-				B25029101853739E009C77C0 /* pattern5.jpg in Resources */,
+				B25029101853739E009C77C0 /* hotel5.jpg in Resources */,
 				B2F2DAA618424AAC00DB843D /* InfoPlist.strings in Resources */,
-				B250290718537385009C77C0 /* pattern1.jpg in Resources */,
+				B250290718537385009C77C0 /* hotel1.jpg in Resources */,
 				B250291318538752009C77C0 /* logo_m-hotel_250x250.jpg in Resources */,
-				B250290D1853739E009C77C0 /* pattern2.jpg in Resources */,
+				B250290D1853739E009C77C0 /* hotel2.jpg in Resources */,
 				B2F2DAAF18424AAC00DB843D /* Main.storyboard in Resources */,
-				B250290F1853739E009C77C0 /* pattern4.jpg in Resources */,
+				B250290F1853739E009C77C0 /* hotel4.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -295,6 +304,7 @@
 				B2F2DAB218424AAC00DB843D /* ViewController.m in Sources */,
 				B223EB6818444C610089F52F /* PatternViewCell.m in Sources */,
 				B2F2DAAC18424AAC00DB843D /* AppDelegate.m in Sources */,
+				B221A18F18552FAD0098A538 /* SocialSharingViewController.m in Sources */,
 				B2F2DAA818424AAC00DB843D /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -425,6 +435,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UICollectionViewDemo/MHotelMirabel2-Prefix.pch";
 				INFOPLIST_FILE = "UICollectionViewDemo/MHotelMirabel2-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = MHotelMirabel2;
 				WRAPPER_EXTENSION = app;
 			};
@@ -438,6 +449,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UICollectionViewDemo/MHotelMirabel2-Prefix.pch";
 				INFOPLIST_FILE = "UICollectionViewDemo/MHotelMirabel2-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = MHotelMirabel2;
 				WRAPPER_EXTENSION = app;
 			};
