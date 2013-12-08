@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B2F2DA9718424AAC00DB843D"
-               BuildableName = "UICollectionViewDemo.app"
+               BuildableName = "MHotelMirabel2.app"
                BlueprintName = "MHotelMirabel2"
                ReferencedContainer = "container:MHotelMirabel2.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B2F2DAB818424AAC00DB843D"
-               BuildableName = "UICollectionViewDemoTests.xctest"
+               BuildableName = "MHotelMirabel2Tests.xctest"
                BlueprintName = "MHotelMirabel2Tests"
                ReferencedContainer = "container:MHotelMirabel2.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B2F2DA9718424AAC00DB843D"
-            BuildableName = "UICollectionViewDemo.app"
+            BuildableName = "MHotelMirabel2.app"
             BlueprintName = "MHotelMirabel2"
             ReferencedContainer = "container:MHotelMirabel2.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B2F2DA9718424AAC00DB843D"
-            BuildableName = "UICollectionViewDemo.app"
+            BuildableName = "MHotelMirabel2.app"
             BlueprintName = "MHotelMirabel2"
             ReferencedContainer = "container:MHotelMirabel2.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B2F2DA9718424AAC00DB843D"
-            BuildableName = "UICollectionViewDemo.app"
+            BuildableName = "MHotelMirabel2.app"
             BlueprintName = "MHotelMirabel2"
             ReferencedContainer = "container:MHotelMirabel2.xcodeproj">
          </BuildableReference>
